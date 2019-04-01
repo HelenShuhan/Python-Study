@@ -59,7 +59,7 @@ $$
 - **Area under the curve (AUC):** metric to calculate the overall performance of a classification model based on area under the ROC curve
 - 
 
-A typical ROC curve is shown below:
+A typical ROC curve is shown below:`
 
 
 
